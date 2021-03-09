@@ -1,0 +1,55 @@
+.jumbotron{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 70%;
+}
+
+.icon-div{
+    float: left;
+    width: 30%;
+    
+}
+
+.info-div{
+    float: left;
+    width: 70%;
+    
+}
+
+.clear{
+    clear: both;
+}
+
+.center-div{
+    margin: 0 auto;
+}
+
+.searchbar-div{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.custom-form{
+    height: 45px;
+    width: 300px;
+    border-radius: 45px 0 0 45px;
+    font-size: 18px;
+    box-shadow: none;
+}
+
+.result-div{
+    width: 100%;
+}
+
+input:focus{
+    outline: 0;
+}
+
+.custom-button{
+    height: 45px;
+    border-radius: 0 45px 45px 0;
+    margin-left: -1px;
+    font-size: 18px;
+}
+
+  

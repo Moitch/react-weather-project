@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+  }
+
+body{
+    width: 100%;
+    background-image: linear-gradient(#66D0FF,#aac4cf);    
+  }
+
+.bgcolor{
+    background-color: #66D0FF;
+}
+
+
+
